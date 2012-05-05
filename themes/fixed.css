@@ -1,0 +1,3 @@
+.ie6 .header-wrap{position:absolute; left:0;top:expression(eval(document.documentElement.scrollTop));}
+.ie6 .content .contact{position:absolute; left:200px;top:expression(eval(document.documentElement.scrollTop+120));}
+.ie6 .content .contact-way{width:200px;position:absolute; left:900px;top:expression(eval(document.documentElement.scrollTop+120));}
